@@ -1,3 +1,3 @@
-# Food Mood!
+# React Redux Thunk Boilerplate
 
-How does food make you feel?
+Basic boilerplate to create groovy webapps with. Yay!
